@@ -1,0 +1,11 @@
+C:\Users\PEDRO\Desktop\C# alternativo\apostila Yuri\cadastroContas\bin\Debug\cadastroContas.exe.config
+C:\Users\PEDRO\Desktop\C# alternativo\apostila Yuri\cadastroContas\bin\Debug\cadastroContas.exe
+C:\Users\PEDRO\Desktop\C# alternativo\apostila Yuri\cadastroContas\bin\Debug\cadastroContas.pdb
+C:\Users\PEDRO\Desktop\C# alternativo\apostila Yuri\cadastroContas\obj\Debug\cadastroContas.csproj.AssemblyReference.cache
+C:\Users\PEDRO\Desktop\C# alternativo\apostila Yuri\cadastroContas\obj\Debug\cadastroContas.csproj.SuggestedBindingRedirects.cache
+C:\Users\PEDRO\Desktop\C# alternativo\apostila Yuri\cadastroContas\obj\Debug\cadastroContas.Form1.resources
+C:\Users\PEDRO\Desktop\C# alternativo\apostila Yuri\cadastroContas\obj\Debug\cadastroContas.Properties.Resources.resources
+C:\Users\PEDRO\Desktop\C# alternativo\apostila Yuri\cadastroContas\obj\Debug\cadastroContas.csproj.GenerateResource.cache
+C:\Users\PEDRO\Desktop\C# alternativo\apostila Yuri\cadastroContas\obj\Debug\cadastroContas.csproj.CoreCompileInputs.cache
+C:\Users\PEDRO\Desktop\C# alternativo\apostila Yuri\cadastroContas\obj\Debug\cadastroContas.exe
+C:\Users\PEDRO\Desktop\C# alternativo\apostila Yuri\cadastroContas\obj\Debug\cadastroContas.pdb

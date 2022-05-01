@@ -1,0 +1,8 @@
+C:\Users\PEDRO\Desktop\C# alternativo\apostila Yuri\Heranca - console\obj\Debug\Heranca - console.csproj.AssemblyReference.cache
+C:\Users\PEDRO\Desktop\C# alternativo\apostila Yuri\Heranca - console\obj\Debug\Heranca - console.csproj.SuggestedBindingRedirects.cache
+C:\Users\PEDRO\Desktop\C# alternativo\apostila Yuri\Heranca - console\obj\Debug\Heranca - console.csproj.CoreCompileInputs.cache
+C:\Users\PEDRO\Desktop\C# alternativo\apostila Yuri\Heranca - console\bin\Debug\Heranca - console.exe.config
+C:\Users\PEDRO\Desktop\C# alternativo\apostila Yuri\Heranca - console\bin\Debug\Heranca - console.exe
+C:\Users\PEDRO\Desktop\C# alternativo\apostila Yuri\Heranca - console\bin\Debug\Heranca - console.pdb
+C:\Users\PEDRO\Desktop\C# alternativo\apostila Yuri\Heranca - console\obj\Debug\Heranca - console.exe
+C:\Users\PEDRO\Desktop\C# alternativo\apostila Yuri\Heranca - console\obj\Debug\Heranca - console.pdb

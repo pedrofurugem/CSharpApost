@@ -1,0 +1,12 @@
+C:\Users\PEDRO\Desktop\C# alternativo\apostila C# orientacão a objetos\Classe abstrata cap 13\bin\Debug\Classe abstrata cap 13.exe.config
+C:\Users\PEDRO\Desktop\C# alternativo\apostila C# orientacão a objetos\Classe abstrata cap 13\bin\Debug\Classe abstrata cap 13.exe
+C:\Users\PEDRO\Desktop\C# alternativo\apostila C# orientacão a objetos\Classe abstrata cap 13\bin\Debug\Classe abstrata cap 13.pdb
+C:\Users\PEDRO\Desktop\C# alternativo\apostila C# orientacão a objetos\Classe abstrata cap 13\obj\Debug\Classe abstrata cap 13.csproj.AssemblyReference.cache
+C:\Users\PEDRO\Desktop\C# alternativo\apostila C# orientacão a objetos\Classe abstrata cap 13\obj\Debug\Classe abstrata cap 13.csproj.SuggestedBindingRedirects.cache
+C:\Users\PEDRO\Desktop\C# alternativo\apostila C# orientacão a objetos\Classe abstrata cap 13\obj\Debug\Classe_abstrata_cap_13.Form1.resources
+C:\Users\PEDRO\Desktop\C# alternativo\apostila C# orientacão a objetos\Classe abstrata cap 13\obj\Debug\Classe_abstrata_cap_13.FormCadastroConta.resources
+C:\Users\PEDRO\Desktop\C# alternativo\apostila C# orientacão a objetos\Classe abstrata cap 13\obj\Debug\Classe_abstrata_cap_13.Properties.Resources.resources
+C:\Users\PEDRO\Desktop\C# alternativo\apostila C# orientacão a objetos\Classe abstrata cap 13\obj\Debug\Classe abstrata cap 13.csproj.GenerateResource.cache
+C:\Users\PEDRO\Desktop\C# alternativo\apostila C# orientacão a objetos\Classe abstrata cap 13\obj\Debug\Classe abstrata cap 13.csproj.CoreCompileInputs.cache
+C:\Users\PEDRO\Desktop\C# alternativo\apostila C# orientacão a objetos\Classe abstrata cap 13\obj\Debug\Classe abstrata cap 13.exe
+C:\Users\PEDRO\Desktop\C# alternativo\apostila C# orientacão a objetos\Classe abstrata cap 13\obj\Debug\Classe abstrata cap 13.pdb

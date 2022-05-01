@@ -1,0 +1,12 @@
+C:\Users\PEDRO\Desktop\C# alternativo\apostila Yuri\Cadastro contas\bin\Debug\Cadastro contas.exe.config
+C:\Users\PEDRO\Desktop\C# alternativo\apostila Yuri\Cadastro contas\bin\Debug\Cadastro contas.exe
+C:\Users\PEDRO\Desktop\C# alternativo\apostila Yuri\Cadastro contas\bin\Debug\Cadastro contas.pdb
+C:\Users\PEDRO\Desktop\C# alternativo\apostila Yuri\Cadastro contas\obj\Debug\Cadastro contas.csproj.AssemblyReference.cache
+C:\Users\PEDRO\Desktop\C# alternativo\apostila Yuri\Cadastro contas\obj\Debug\Cadastro contas.csproj.SuggestedBindingRedirects.cache
+C:\Users\PEDRO\Desktop\C# alternativo\apostila Yuri\Cadastro contas\obj\Debug\Cadastro_contas.Form1.resources
+C:\Users\PEDRO\Desktop\C# alternativo\apostila Yuri\Cadastro contas\obj\Debug\Cadastro_contas.FormCadastroConta.resources
+C:\Users\PEDRO\Desktop\C# alternativo\apostila Yuri\Cadastro contas\obj\Debug\Cadastro_contas.Properties.Resources.resources
+C:\Users\PEDRO\Desktop\C# alternativo\apostila Yuri\Cadastro contas\obj\Debug\Cadastro contas.csproj.GenerateResource.cache
+C:\Users\PEDRO\Desktop\C# alternativo\apostila Yuri\Cadastro contas\obj\Debug\Cadastro contas.csproj.CoreCompileInputs.cache
+C:\Users\PEDRO\Desktop\C# alternativo\apostila Yuri\Cadastro contas\obj\Debug\Cadastro contas.exe
+C:\Users\PEDRO\Desktop\C# alternativo\apostila Yuri\Cadastro contas\obj\Debug\Cadastro contas.pdb

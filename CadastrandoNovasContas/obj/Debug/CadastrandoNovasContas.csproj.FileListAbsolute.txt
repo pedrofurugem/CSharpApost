@@ -1,0 +1,24 @@
+C:\Users\PEDRO\Desktop\C# alternativo\apostila Yuri\CadastrandoNovasContas\bin\Debug\CadastrandoNovasContas.exe.config
+C:\Users\PEDRO\Desktop\C# alternativo\apostila Yuri\CadastrandoNovasContas\bin\Debug\CadastrandoNovasContas.exe
+C:\Users\PEDRO\Desktop\C# alternativo\apostila Yuri\CadastrandoNovasContas\bin\Debug\CadastrandoNovasContas.pdb
+C:\Users\PEDRO\Desktop\C# alternativo\apostila Yuri\CadastrandoNovasContas\obj\Debug\CadastrandoNovasContas.csproj.AssemblyReference.cache
+C:\Users\PEDRO\Desktop\C# alternativo\apostila Yuri\CadastrandoNovasContas\obj\Debug\CadastrandoNovasContas.csproj.SuggestedBindingRedirects.cache
+C:\Users\PEDRO\Desktop\C# alternativo\apostila Yuri\CadastrandoNovasContas\obj\Debug\CadastrandoNovasContas.Form1.resources
+C:\Users\PEDRO\Desktop\C# alternativo\apostila Yuri\CadastrandoNovasContas\obj\Debug\CadastrandoNovasContas.Properties.Resources.resources
+C:\Users\PEDRO\Desktop\C# alternativo\apostila Yuri\CadastrandoNovasContas\obj\Debug\CadastrandoNovasContas.csproj.GenerateResource.cache
+C:\Users\PEDRO\Desktop\C# alternativo\apostila Yuri\CadastrandoNovasContas\obj\Debug\CadastrandoNovasContas.csproj.CoreCompileInputs.cache
+C:\Users\PEDRO\Desktop\C# alternativo\apostila Yuri\CadastrandoNovasContas\obj\Debug\CadastrandoNovasContas.exe
+C:\Users\PEDRO\Desktop\C# alternativo\apostila Yuri\CadastrandoNovasContas\obj\Debug\CadastrandoNovasContas.pdb
+C:\Users\PEDRO\Desktop\C# alternativo\apostila Yuri\CadastrandoNovasContas\obj\Debug\CadastrandoNovasContas.FormCadastroConta.resources
+C:\Users\PEDRO\Desktop\C# alternativo\apostila C# orientacão a objetos\CadastrandoNovasContas\bin\Debug\CadastrandoNovasContas.exe.config
+C:\Users\PEDRO\Desktop\C# alternativo\apostila C# orientacão a objetos\CadastrandoNovasContas\bin\Debug\CadastrandoNovasContas.exe
+C:\Users\PEDRO\Desktop\C# alternativo\apostila C# orientacão a objetos\CadastrandoNovasContas\bin\Debug\CadastrandoNovasContas.pdb
+C:\Users\PEDRO\Desktop\C# alternativo\apostila C# orientacão a objetos\CadastrandoNovasContas\obj\Debug\CadastrandoNovasContas.csproj.AssemblyReference.cache
+C:\Users\PEDRO\Desktop\C# alternativo\apostila C# orientacão a objetos\CadastrandoNovasContas\obj\Debug\CadastrandoNovasContas.csproj.SuggestedBindingRedirects.cache
+C:\Users\PEDRO\Desktop\C# alternativo\apostila C# orientacão a objetos\CadastrandoNovasContas\obj\Debug\CadastrandoNovasContas.Form1.resources
+C:\Users\PEDRO\Desktop\C# alternativo\apostila C# orientacão a objetos\CadastrandoNovasContas\obj\Debug\CadastrandoNovasContas.FormCadastroConta.resources
+C:\Users\PEDRO\Desktop\C# alternativo\apostila C# orientacão a objetos\CadastrandoNovasContas\obj\Debug\CadastrandoNovasContas.Properties.Resources.resources
+C:\Users\PEDRO\Desktop\C# alternativo\apostila C# orientacão a objetos\CadastrandoNovasContas\obj\Debug\CadastrandoNovasContas.csproj.GenerateResource.cache
+C:\Users\PEDRO\Desktop\C# alternativo\apostila C# orientacão a objetos\CadastrandoNovasContas\obj\Debug\CadastrandoNovasContas.csproj.CoreCompileInputs.cache
+C:\Users\PEDRO\Desktop\C# alternativo\apostila C# orientacão a objetos\CadastrandoNovasContas\obj\Debug\CadastrandoNovasContas.exe
+C:\Users\PEDRO\Desktop\C# alternativo\apostila C# orientacão a objetos\CadastrandoNovasContas\obj\Debug\CadastrandoNovasContas.pdb

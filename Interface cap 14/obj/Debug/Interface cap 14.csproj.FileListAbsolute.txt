@@ -1,0 +1,12 @@
+C:\Users\PEDRO\Desktop\C# alternativo\apostila C# orientacão a objetos\Interface cap 14\bin\Debug\Interface cap 14.exe.config
+C:\Users\PEDRO\Desktop\C# alternativo\apostila C# orientacão a objetos\Interface cap 14\bin\Debug\Interface cap 14.exe
+C:\Users\PEDRO\Desktop\C# alternativo\apostila C# orientacão a objetos\Interface cap 14\bin\Debug\Interface cap 14.pdb
+C:\Users\PEDRO\Desktop\C# alternativo\apostila C# orientacão a objetos\Interface cap 14\obj\Debug\Interface cap 14.csproj.SuggestedBindingRedirects.cache
+C:\Users\PEDRO\Desktop\C# alternativo\apostila C# orientacão a objetos\Interface cap 14\obj\Debug\Interface_cap_14.Form1.resources
+C:\Users\PEDRO\Desktop\C# alternativo\apostila C# orientacão a objetos\Interface cap 14\obj\Debug\Interface_cap_14.FormCadastroConta.resources
+C:\Users\PEDRO\Desktop\C# alternativo\apostila C# orientacão a objetos\Interface cap 14\obj\Debug\Interface_cap_14.Properties.Resources.resources
+C:\Users\PEDRO\Desktop\C# alternativo\apostila C# orientacão a objetos\Interface cap 14\obj\Debug\Interface cap 14.csproj.GenerateResource.cache
+C:\Users\PEDRO\Desktop\C# alternativo\apostila C# orientacão a objetos\Interface cap 14\obj\Debug\Interface cap 14.csproj.CoreCompileInputs.cache
+C:\Users\PEDRO\Desktop\C# alternativo\apostila C# orientacão a objetos\Interface cap 14\obj\Debug\Interface cap 14.exe
+C:\Users\PEDRO\Desktop\C# alternativo\apostila C# orientacão a objetos\Interface cap 14\obj\Debug\Interface cap 14.pdb
+C:\Users\PEDRO\Desktop\C# alternativo\apostila C# orientacão a objetos\Interface cap 14\obj\Debug\Interface cap 14.csproj.AssemblyReference.cache

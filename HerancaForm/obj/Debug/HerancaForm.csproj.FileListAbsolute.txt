@@ -1,0 +1,11 @@
+C:\Users\PEDRO\Desktop\C# alternativo\apostila Yuri\HerancaForm\bin\Debug\HerancaForm.exe.config
+C:\Users\PEDRO\Desktop\C# alternativo\apostila Yuri\HerancaForm\bin\Debug\HerancaForm.exe
+C:\Users\PEDRO\Desktop\C# alternativo\apostila Yuri\HerancaForm\bin\Debug\HerancaForm.pdb
+C:\Users\PEDRO\Desktop\C# alternativo\apostila Yuri\HerancaForm\obj\Debug\HerancaForm.csproj.AssemblyReference.cache
+C:\Users\PEDRO\Desktop\C# alternativo\apostila Yuri\HerancaForm\obj\Debug\HerancaForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\PEDRO\Desktop\C# alternativo\apostila Yuri\HerancaForm\obj\Debug\HerancaForm.Form1.resources
+C:\Users\PEDRO\Desktop\C# alternativo\apostila Yuri\HerancaForm\obj\Debug\HerancaForm.Properties.Resources.resources
+C:\Users\PEDRO\Desktop\C# alternativo\apostila Yuri\HerancaForm\obj\Debug\HerancaForm.csproj.GenerateResource.cache
+C:\Users\PEDRO\Desktop\C# alternativo\apostila Yuri\HerancaForm\obj\Debug\HerancaForm.csproj.CoreCompileInputs.cache
+C:\Users\PEDRO\Desktop\C# alternativo\apostila Yuri\HerancaForm\obj\Debug\HerancaForm.exe
+C:\Users\PEDRO\Desktop\C# alternativo\apostila Yuri\HerancaForm\obj\Debug\HerancaForm.pdb

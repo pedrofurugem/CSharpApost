@@ -1,0 +1,15 @@
+C:\Users\PEDRO\Desktop\C# alternativo\apostila Yuri\cadastroContas2\obj\Debug\cadastroContas2.csproj.AssemblyReference.cache
+C:\Users\PEDRO\Desktop\C# alternativo\apostila Yuri\cadastroContas2\obj\Debug\cadastroContas2.csproj.SuggestedBindingRedirects.cache
+C:\Users\PEDRO\Desktop\C# alternativo\apostila Yuri\cadastroContas2\obj\Debug\cadastroContas2.Form1.resources
+C:\Users\PEDRO\Desktop\C# alternativo\apostila Yuri\cadastroContas2\obj\Debug\cadastroContas2.Properties.Resources.resources
+C:\Users\PEDRO\Desktop\C# alternativo\apostila Yuri\cadastroContas2\obj\Debug\cadastroContas2.csproj.GenerateResource.cache
+C:\Users\PEDRO\Desktop\C# alternativo\apostila Yuri\cadastroContas2\obj\Debug\cadastroContas2.csproj.CoreCompileInputs.cache
+C:\Users\PEDRO\Desktop\C# alternativo\apostila Yuri\cadastroContas2\bin\Debug\cadastroContas2.exe.config
+C:\Users\PEDRO\Desktop\C# alternativo\apostila Yuri\cadastroContas2\bin\Debug\cadastroContas2.exe
+C:\Users\PEDRO\Desktop\C# alternativo\apostila Yuri\cadastroContas2\bin\Debug\cadastroContas2.pdb
+C:\Users\PEDRO\Desktop\C# alternativo\apostila Yuri\cadastroContas2\bin\Debug\Classe.exe
+C:\Users\PEDRO\Desktop\C# alternativo\apostila Yuri\cadastroContas2\bin\Debug\Classe.pdb
+C:\Users\PEDRO\Desktop\C# alternativo\apostila Yuri\cadastroContas2\bin\Debug\Classe.exe.config
+C:\Users\PEDRO\Desktop\C# alternativo\apostila Yuri\cadastroContas2\obj\Debug\cadastroContas2.csproj.CopyComplete
+C:\Users\PEDRO\Desktop\C# alternativo\apostila Yuri\cadastroContas2\obj\Debug\cadastroContas2.exe
+C:\Users\PEDRO\Desktop\C# alternativo\apostila Yuri\cadastroContas2\obj\Debug\cadastroContas2.pdb

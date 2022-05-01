@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0d3425e0-25ba-471c-b6fb-06fdbab40124": {
+      "ProjectGuid": "0d3425e0-25ba-471c-b6fb-06fdbab40124",
+      "DisplayName": "OiMundo",
+      "ColorIndex": 0
+    },
+    "7bb75061-a596-4d81-b26a-18af2a27488c": {
+      "ProjectGuid": "7bb75061-a596-4d81-b26a-18af2a27488c",
+      "DisplayName": "Condicional",
+      "ColorIndex": 1
+    },
+    "9b099428-7cb0-4cde-ad95-96239f4087b7": {
+      "ProjectGuid": "9b099428-7cb0-4cde-ad95-96239f4087b7",
+      "DisplayName": "classe",
+      "ColorIndex": 2
+    },
+    "64c0aa5e-c7bb-4af0-bbab-8a5b25808f16": {
+      "ProjectGuid": "64c0aa5e-c7bb-4af0-bbab-8a5b25808f16",
+      "DisplayName": "Classe",
+      "ColorIndex": 3
+    },
+    "9a4c05a5-2e2b-4523-a702-a7d4f652e8e0": {
+      "ProjectGuid": "9a4c05a5-2e2b-4523-a702-a7d4f652e8e0",
+      "DisplayName": "Classe2-Herança",
+      "ColorIndex": 4
+    },
+    "71908887-de6f-4028-9a20-ce5ce4e611f9": {
+      "ProjectGuid": "71908887-de6f-4028-9a20-ce5ce4e611f9",
+      "DisplayName": "Heranca - console",
+      "ColorIndex": 5
+    },
+    "ef519543-fc8e-489f-82b2-6820b42fa2cd": {
+      "ProjectGuid": "ef519543-fc8e-489f-82b2-6820b42fa2cd",
+      "DisplayName": "HerancaForm",
+      "ColorIndex": 6
+    },
+    "e71ff84f-6a06-4d91-b92d-b78b5b0d1972": {
+      "ProjectGuid": "e71ff84f-6a06-4d91-b92d-b78b5b0d1972",
+      "DisplayName": "Array",
+      "ColorIndex": 7
+    },
+    "fa7b2565-4ee6-4616-b256-88a4006450a3": {
+      "ProjectGuid": "fa7b2565-4ee6-4616-b256-88a4006450a3",
+      "DisplayName": "Cadastro contas",
+      "ColorIndex": 8
+    },
+    "50aac09a-8a82-4cc1-9e97-161f214a608b": {
+      "ProjectGuid": "50aac09a-8a82-4cc1-9e97-161f214a608b",
+      "DisplayName": "CadastrandoNovasContas",
+      "ColorIndex": 9
+    },
+    "48aa0ba7-ae62-4edd-9078-97c45c97e57e": {
+      "ProjectGuid": "48aa0ba7-ae62-4edd-9078-97c45c97e57e",
+      "DisplayName": "Classe abstrata cap 13",
+      "ColorIndex": 10
+    },
+    "2dae7c71-4a3c-423b-b131-7a9179b8fd08": {
+      "ProjectGuid": "2dae7c71-4a3c-423b-b131-7a9179b8fd08",
+      "DisplayName": "Polimorfismo",
+      "ColorIndex": 11
+    },
+    "e4512e2b-555b-4016-9561-6093b4de672b": {
+      "ProjectGuid": "e4512e2b-555b-4016-9561-6093b4de672b",
+      "DisplayName": "Interface cap 14",
+      "ColorIndex": 12
+    }
+  },
+  "NextColorIndex": 13
+}
